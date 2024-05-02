@@ -4,12 +4,13 @@ image: "matt-albar.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/mattalbar/"
+  - label: Email
+    url: "mailto:matt.albar@gmail.com"
   - label: Twitter
     url: "https://twitter.com/matt_albar"
   - label: GitHub
     url: "https://github.com/matt-albar"
-  - label: Email
-    url: "mailto:matt.albar@gmail.com"
+
 output:
   postcards::trestles
 ---
